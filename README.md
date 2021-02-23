@@ -11,3 +11,9 @@ http://www.doc88.com/p-2768924518145.html
 
 漫谈autoencoder：降噪自编码器/稀疏自编码器/栈式自编码器（含tensorflow实现）
 https://blog.csdn.net/wblgers1234/article/details/81545079
+
+GitHub/SparseGroupLasso
+https://github.com/CHENLONGREN/SparseGroupLasso
+
+GitHub/tensorflow_stacked_denoising_autoencoder
+https://github.com/CHENLONGREN/tensorflow_stacked_denoising_autoencoder
